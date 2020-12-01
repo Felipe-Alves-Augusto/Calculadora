@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora feita em Javascript puro!.
+ Calculadora feita em Javascript Orientado a Objetos
